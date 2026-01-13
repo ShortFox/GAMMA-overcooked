@@ -8,7 +8,7 @@ paper: [Learning to Cooperate with Humans using Generative Agents (NeurIPS 2024)
 
 demo/website: [https://sites.google.com/view/human-ai-gamma-2024/](https://sites.google.com/view/human-ai-gamma-2024/)
 
-
+model checkpoints: [https://github.com/lych1233/Overcooked_Population_Data/tree/main]()
 
 ## Get Started
 
